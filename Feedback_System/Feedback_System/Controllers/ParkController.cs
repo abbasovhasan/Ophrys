@@ -1,7 +1,4 @@
-﻿using Feedback_System.Abstractions;
-using Feedback_System.Dtos;
-using Feedback_System.Models;
-using Microsoft.AspNetCore.Mvc;
+﻿
 
 namespace Feedback_System.Controllers
 {
@@ -20,11 +17,11 @@ namespace Feedback_System.Controllers
 
         // GET: api/Park
         [HttpGet]
+        [Authorize(Roles = "User,Admin")] // Hem User hem Admin GET işlemini yapabilir
         public IActionResult GetAllParks()
         {
             var parks = _readRepository.GetAll();
 
-            // Entity'den DTO'ya manuel dönüşüm
             var parkDtos = parks.Select(park => new ParkDto
             {
                 Id = park.Id,
@@ -43,13 +40,13 @@ namespace Feedback_System.Controllers
 
         // GET: api/Park/{id}
         [HttpGet("{id}")]
+        [Authorize(Roles = "User,Admin")] // Hem User hem Admin GET by ID yapabilir
         public IActionResult GetParkById(int id)
         {
             try
             {
                 var park = _readRepository.GetById(id);
 
-                // Entity'den DTO'ya manuel dönüşüm
                 var parkDto = new ParkDto
                 {
                     Id = park.Id,
@@ -73,6 +70,7 @@ namespace Feedback_System.Controllers
 
         // POST: api/Park
         [HttpPost]
+        [Authorize(Roles = "Admin")] // Sadece Admin park oluşturabilir
         public IActionResult CreatePark([FromBody] ParkDto parkDto)
         {
             if (parkDto == null)
@@ -80,7 +78,6 @@ namespace Feedback_System.Controllers
                 return BadRequest("Park DTO cannot be null.");
             }
 
-            // DTO'dan Entity'ye manuel dönüşüm
             var park = new ParkEntities
             {
                 Name = parkDto.Name,
@@ -98,6 +95,7 @@ namespace Feedback_System.Controllers
 
         // PUT: api/Park/{id}
         [HttpPut("{id}")]
+        [Authorize(Roles = "Admin")] // Sadece Admin parkları güncelleyebilir
         public IActionResult UpdatePark(int id, [FromBody] ParkDto updatedParkDto)
         {
             if (updatedParkDto == null || updatedParkDto.Id != id)
@@ -109,11 +107,9 @@ namespace Feedback_System.Controllers
             {
                 var existingPark = _readRepository.GetById(id);
 
-                // DTO'dan Entity'ye manuel dönüşüm
                 existingPark.Name = updatedParkDto.Name;
                 existingPark.Description = updatedParkDto.Description;
 
-                // Post'ların güncellenmesi gerekiyorsa
                 existingPark.Posts = updatedParkDto.Posts?.Select(postDto => new PostModel
                 {
                     Id = postDto.Id ?? 0,
@@ -132,6 +128,7 @@ namespace Feedback_System.Controllers
 
         // DELETE: api/Park/{id}
         [HttpDelete("{id}")]
+        [Authorize(Roles = "Admin")] // Sadece Admin parkları silebilir
         public IActionResult DeletePark(int id)
         {
             try

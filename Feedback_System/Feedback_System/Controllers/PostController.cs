@@ -1,9 +1,4 @@
-﻿using Feedback_System.Abstractions;
-using Feedback_System.Dtos;
-using Feedback_System.Models;
-using Microsoft.AspNetCore.Mvc;
-
-namespace Feedback_System.Controllers
+﻿namespace Feedback_System.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
@@ -20,11 +15,11 @@ namespace Feedback_System.Controllers
 
         // GET: api/Post
         [HttpGet]
+        [Authorize(Roles = "User,Admin")] // User ve Admin bu işlemi yapabilir
         public IActionResult GetAllPosts()
         {
             var posts = _readRepository.GetAll();
 
-            // Entity'den DTO'ya manuel dönüşüm
             var postDtos = posts.Select(post => new PostDto
             {
                 Id = post.Id,
@@ -37,13 +32,12 @@ namespace Feedback_System.Controllers
 
         // GET: api/Post/{id}
         [HttpGet("{id}")]
+        [Authorize(Roles = "User,Admin")] // User ve Admin bu işlemi yapabilir
         public IActionResult GetPostById(int id)
         {
             try
             {
                 var post = _readRepository.GetById(id);
-
-                // Entity'den DTO'ya manuel dönüşüm
                 var postDto = new PostDto
                 {
                     Id = post.Id,
@@ -61,6 +55,7 @@ namespace Feedback_System.Controllers
 
         // POST: api/Post
         [HttpPost]
+        [Authorize(Roles = "Admin")] // Sadece Admin post oluşturabilir
         public IActionResult CreatePost([FromBody] PostDto postDto)
         {
             if (postDto == null)
@@ -68,7 +63,6 @@ namespace Feedback_System.Controllers
                 return BadRequest("Post DTO cannot be null.");
             }
 
-            // DTO'dan Entity'ye manuel dönüşüm
             var post = new PostModel
             {
                 Comment = postDto.Comment,
@@ -81,6 +75,7 @@ namespace Feedback_System.Controllers
 
         // PUT: api/Post/{id}
         [HttpPut("{id}")]
+        [Authorize(Roles = "Admin")] // Sadece Admin postları güncelleyebilir
         public IActionResult UpdatePost(int id, [FromBody] PostDto updatedPostDto)
         {
             if (updatedPostDto == null || updatedPostDto.Id != id)
@@ -92,7 +87,6 @@ namespace Feedback_System.Controllers
             {
                 var existingPost = _readRepository.GetById(id);
 
-                // DTO'dan Entity'ye manuel dönüşüm
                 existingPost.Comment = updatedPostDto.Comment;
                 existingPost.ParkId = updatedPostDto.ParkId ?? 0;
 
@@ -107,6 +101,7 @@ namespace Feedback_System.Controllers
 
         // DELETE: api/Post/{id}
         [HttpDelete("{id}")]
+        [Authorize(Roles = "Admin")] // Sadece Admin postları silebilir
         public IActionResult DeletePost(int id)
         {
             try
