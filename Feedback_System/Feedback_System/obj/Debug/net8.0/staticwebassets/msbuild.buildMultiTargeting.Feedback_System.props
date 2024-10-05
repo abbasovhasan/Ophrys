@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Feedback_System.props" />
+</Project>

@@ -1,0 +1,26 @@
+###
+POST http://localhost:5271/api/auth/register
+Content-Type: application/json
+
+{
+    "UserName": "exampleUser",
+    "Email": "example@example.com",
+    "FirstName": "First",
+    "LastName": "Last",
+    "Password": "Password123!",
+    "Role": "User" // veya "Admin"
+}
+
+###
+POST http://localhost:5271/api/auth/login
+Content-Type: application/json
+
+{
+    "UserName": "exampleUser",
+    "Password": "Password123!"
+}
+
+###
+GET http://localhost:5271/api/admin/users
+Authorization: Bearer <your_jwt_token>
+

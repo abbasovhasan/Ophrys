@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Codeland-Admin-Panel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD77107-19BF-445B-8B56-5B4E048691BA}|Codeland-Admin-Panel\\Codeland-Admin-Panel.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\codeland-admin-panel\\codeland-admin-panel\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD77107-19BF-445B-8B56-5B4E048691BA}|Codeland-Admin-Panel\\Codeland-Admin-Panel.csproj|solutionrelative:codeland-admin-panel\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD77107-19BF-445B-8B56-5B4E048691BA}|Codeland-Admin-Panel\\Codeland-Admin-Panel.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\codeland-admin-panel\\codeland-admin-panel\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD77107-19BF-445B-8B56-5B4E048691BA}|Codeland-Admin-Panel\\Codeland-Admin-Panel.csproj|solutionrelative:codeland-admin-panel\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD77107-19BF-445B-8B56-5B4E048691BA}|Codeland-Admin-Panel\\Codeland-Admin-Panel.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\codeland-admin-panel\\codeland-admin-panel\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD77107-19BF-445B-8B56-5B4E048691BA}|Codeland-Admin-Panel\\Codeland-Admin-Panel.csproj|solutionrelative:codeland-admin-panel\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD77107-19BF-445B-8B56-5B4E048691BA}|Codeland-Admin-Panel\\Codeland-Admin-Panel.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\codeland-admin-panel\\codeland-admin-panel\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD77107-19BF-445B-8B56-5B4E048691BA}|Codeland-Admin-Panel\\Codeland-Admin-Panel.csproj|solutionrelative:codeland-admin-panel\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD77107-19BF-445B-8B56-5B4E048691BA}|Codeland-Admin-Panel\\Codeland-Admin-Panel.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\codeland-admin-panel\\codeland-admin-panel\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD77107-19BF-445B-8B56-5B4E048691BA}|Codeland-Admin-Panel\\Codeland-Admin-Panel.csproj|solutionrelative:codeland-admin-panel\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD77107-19BF-445B-8B56-5B4E048691BA}|Codeland-Admin-Panel\\Codeland-Admin-Panel.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\codeland-admin-panel\\codeland-admin-panel\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD77107-19BF-445B-8B56-5B4E048691BA}|Codeland-Admin-Panel\\Codeland-Admin-Panel.csproj|solutionrelative:codeland-admin-panel\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD77107-19BF-445B-8B56-5B4E048691BA}|Codeland-Admin-Panel\\Codeland-Admin-Panel.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\codeland-admin-panel\\codeland-admin-panel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD77107-19BF-445B-8B56-5B4E048691BA}|Codeland-Admin-Panel\\Codeland-Admin-Panel.csproj|solutionrelative:codeland-admin-panel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD77107-19BF-445B-8B56-5B4E048691BA}|Codeland-Admin-Panel\\Codeland-Admin-Panel.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\codeland-admin-panel\\codeland-admin-panel\\codeland-admin-panel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3DD77107-19BF-445B-8B56-5B4E048691BA}|Codeland-Admin-Panel\\Codeland-Admin-Panel.csproj|solutionrelative:codeland-admin-panel\\codeland-admin-panel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD77107-19BF-445B-8B56-5B4E048691BA}|Codeland-Admin-Panel\\Codeland-Admin-Panel.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\codeland-admin-panel\\codeland-admin-panel\\codeland-admin-panel.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3DD77107-19BF-445B-8B56-5B4E048691BA}|Codeland-Admin-Panel\\Codeland-Admin-Panel.csproj|solutionrelative:codeland-admin-panel\\codeland-admin-panel.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD77107-19BF-445B-8B56-5B4E048691BA}|Codeland-Admin-Panel\\Codeland-Admin-Panel.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\codeland-admin-panel\\codeland-admin-panel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DD77107-19BF-445B-8B56-5B4E048691BA}|Codeland-Admin-Panel\\Codeland-Admin-Panel.csproj|solutionrelative:codeland-admin-panel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD77107-19BF-445B-8B56-5B4E048691BA}|Codeland-Admin-Panel\\Codeland-Admin-Panel.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\codeland-admin-panel\\codeland-admin-panel\\dtos\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD77107-19BF-445B-8B56-5B4E048691BA}|Codeland-Admin-Panel\\Codeland-Admin-Panel.csproj|solutionrelative:codeland-admin-panel\\dtos\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD77107-19BF-445B-8B56-5B4E048691BA}|Codeland-Admin-Panel\\Codeland-Admin-Panel.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\codeland-admin-panel\\codeland-admin-panel\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DD77107-19BF-445B-8B56-5B4E048691BA}|Codeland-Admin-Panel\\Codeland-Admin-Panel.csproj|solutionrelative:codeland-admin-panel\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Codeland-Admin-Panel\\Codeland-Admin-Panel\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "Codeland-Admin-Panel\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Codeland-Admin-Panel\\Codeland-Admin-Panel\\JwtHelper.cs",
+              "RelativeToolTip": "Codeland-Admin-Panel\\JwtHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:26:45.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Codeland-Admin-Panel\\Codeland-Admin-Panel\\Program.cs",
+              "RelativeDocumentMoniker": "Codeland-Admin-Panel\\Program.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Codeland-Admin-Panel\\Codeland-Admin-Panel\\Program.cs",
+              "RelativeToolTip": "Codeland-Admin-Panel\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T09:10:19.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Codeland-Admin-Panel.csproj",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Codeland-Admin-Panel\\Codeland-Admin-Panel\\Codeland-Admin-Panel.csproj",
+              "RelativeDocumentMoniker": "Codeland-Admin-Panel\\Codeland-Admin-Panel.csproj",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Codeland-Admin-Panel\\Codeland-Admin-Panel\\Codeland-Admin-Panel.csproj",
+              "RelativeToolTip": "Codeland-Admin-Panel\\Codeland-Admin-Panel.csproj",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-05T10:48:08.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Codeland-Admin-Panel\\Codeland-Admin-Panel\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Codeland-Admin-Panel\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Codeland-Admin-Panel\\Codeland-Admin-Panel\\Models\\AppUser.cs",
+              "RelativeToolTip": "Codeland-Admin-Panel\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:14:54.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Codeland-Admin-Panel\\Codeland-Admin-Panel\\Models\\Customers.cs",
+              "RelativeDocumentMoniker": "Codeland-Admin-Panel\\Models\\Customers.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Codeland-Admin-Panel\\Codeland-Admin-Panel\\Models\\Customers.cs",
+              "RelativeToolTip": "Codeland-Admin-Panel\\Models\\Customers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:41:44.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Codeland-Admin-Panel\\Codeland-Admin-Panel\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Codeland-Admin-Panel\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Codeland-Admin-Panel\\Codeland-Admin-Panel\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Codeland-Admin-Panel\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:27:19.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Codeland-Admin-Panel\\Codeland-Admin-Panel\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Codeland-Admin-Panel\\Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Codeland-Admin-Panel\\Codeland-Admin-Panel\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "Codeland-Admin-Panel\\Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:28:35.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Codeland-Admin-Panel\\Codeland-Admin-Panel\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Codeland-Admin-Panel\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Codeland-Admin-Panel\\Codeland-Admin-Panel\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Codeland-Admin-Panel\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:23:20.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Codeland-Admin-Panel.http",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Codeland-Admin-Panel\\Codeland-Admin-Panel\\Codeland-Admin-Panel.http",
+              "RelativeDocumentMoniker": "Codeland-Admin-Panel\\Codeland-Admin-Panel.http",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Codeland-Admin-Panel\\Codeland-Admin-Panel\\Codeland-Admin-Panel.http",
+              "RelativeToolTip": "Codeland-Admin-Panel\\Codeland-Admin-Panel.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-05T11:34:05.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegistrationDto.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Codeland-Admin-Panel\\Codeland-Admin-Panel\\Dtos\\RegistrationDto.cs",
+              "RelativeDocumentMoniker": "Codeland-Admin-Panel\\Dtos\\RegistrationDto.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Codeland-Admin-Panel\\Codeland-Admin-Panel\\Dtos\\RegistrationDto.cs",
+              "RelativeToolTip": "Codeland-Admin-Panel\\Dtos\\RegistrationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:28:20.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Codeland-Admin-Panel\\Codeland-Admin-Panel\\appsettings.json",
+              "RelativeDocumentMoniker": "Codeland-Admin-Panel\\appsettings.json",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Codeland-Admin-Panel\\Codeland-Admin-Panel\\appsettings.json",
+              "RelativeToolTip": "Codeland-Admin-Panel\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T10:13:57.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Codeland-Admin-Panel\\Codeland-Admin-Panel\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Codeland-Admin-Panel\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Codeland-Admin-Panel\\Codeland-Admin-Panel\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Codeland-Admin-Panel\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T11:39:14.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

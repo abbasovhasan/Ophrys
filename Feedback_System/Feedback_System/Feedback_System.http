@@ -1,0 +1,108 @@
+﻿@Feedback_System_HostAddress = http://localhost:5292
+
+### PostController İstekleri ###
+
+# GET All Posts
+GET {{Feedback_System_HostAddress}}/api/post
+Accept: application/json
+
+###
+
+# GET a Post by ID
+GET {{Feedback_System_HostAddress}}/api/post/5
+Accept: application/json
+
+###
+
+# POST a New Post
+POST {{Feedback_System_HostAddress}}/api/post
+Content-Type: application/json
+Accept: application/json
+
+{
+  "comment": "Bu park çok güzel!",
+  "parkId": 2
+}
+
+###
+
+# PUT (Update) a Post by ID
+PUT {{Feedback_System_HostAddress}}/api/post/5
+Content-Type: application/json
+Accept: application/json
+
+{
+  "id": 5,
+  "comment": "Bu park harika!",
+  "parkId": 5
+}
+
+###
+
+# DELETE a Post by ID
+DELETE {{Feedback_System_HostAddress}}/api/post/5
+Accept: application/json
+
+###
+
+### ParkController İstekleri ###
+
+# GET All Parks
+GET {{Feedback_System_HostAddress}}/api/park
+Accept: application/json
+
+###
+
+# GET a Park by ID
+GET {{Feedback_System_HostAddress}}/api/park/6
+Accept: application/json
+
+###
+
+# POST a New Park
+POST {{Feedback_System_HostAddress}}/api/park
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "Şahdağ Milli Parkı",
+  "description": "Şahdağ, kış sporları için harika bir yerdir.",
+  "posts": [
+    {
+      "comment": "Şahdağ kayak yapmak için mükemmel!",
+      "parkId": 12
+    },
+    {
+      "comment": "Doğa yürüyüşleri harika.",
+      "parkId": 12
+    }
+  ]
+}
+
+###
+
+# PUT (Update) a Park by ID
+PUT {{Feedback_System_HostAddress}}/api/park/6
+Content-Type: application/json
+Accept: application/json
+
+{
+  "id": 6,
+  "name": "Şahdağ Milli Parkı",
+  "description": "Şahdağ, kayak ve doğa yürüyüşleri için mükemmel.",
+  "posts": [
+    {
+      "id": 6,
+      "comment": "Kayak yapmak için harika!",
+      "parkId": 6
+    }
+  ]
+}
+
+###
+
+# DELETE a Park by ID
+DELETE {{Feedback_System_HostAddress}}/api/park/6
+Accept: application/json
+
+###
