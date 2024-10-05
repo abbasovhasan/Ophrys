@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Codeland-Admin-Panel.props" />
-</Project>

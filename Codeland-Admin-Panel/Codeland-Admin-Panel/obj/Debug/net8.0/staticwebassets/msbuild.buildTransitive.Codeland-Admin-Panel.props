@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Codeland-Admin-Panel.props" />
-</Project>
