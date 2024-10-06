@@ -72,6 +72,6 @@ app.UseHttpsRedirection();
 app.UseAuthentication();  // Kimlik doğrulama middleware'i
 app.UseAuthorization();   // Yetkilendirme middleware'i
 
-app.MapControllers();
+app.MapControllers();     // Controller endpoint'lerini haritalama
 
 app.Run();

@@ -32,7 +32,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Feedback_System.Controllers.ParkController",
+    "ContainingType": "ParkController",
     "Method": "GetAllParks",
     "RelativePath": "api/Park",
     "HttpMethod": "GET",
@@ -42,7 +42,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Feedback_System.Controllers.ParkController",
+    "ContainingType": "ParkController",
     "Method": "CreatePark",
     "RelativePath": "api/Park",
     "HttpMethod": "POST",
@@ -58,7 +58,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Feedback_System.Controllers.ParkController",
+    "ContainingType": "ParkController",
     "Method": "GetParkById",
     "RelativePath": "api/Park/{id}",
     "HttpMethod": "GET",
@@ -74,7 +74,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Feedback_System.Controllers.ParkController",
+    "ContainingType": "ParkController",
     "Method": "UpdatePark",
     "RelativePath": "api/Park/{id}",
     "HttpMethod": "PUT",
@@ -95,7 +95,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Feedback_System.Controllers.ParkController",
+    "ContainingType": "ParkController",
     "Method": "DeletePark",
     "RelativePath": "api/Park/{id}",
     "HttpMethod": "DELETE",
@@ -111,7 +111,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Feedback_System.Controllers.PostController",
+    "ContainingType": "PostController",
     "Method": "GetAllPosts",
     "RelativePath": "api/Post",
     "HttpMethod": "GET",
@@ -121,7 +121,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Feedback_System.Controllers.PostController",
+    "ContainingType": "PostController",
     "Method": "CreatePost",
     "RelativePath": "api/Post",
     "HttpMethod": "POST",
@@ -137,7 +137,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Feedback_System.Controllers.PostController",
+    "ContainingType": "PostController",
     "Method": "GetPostById",
     "RelativePath": "api/Post/{id}",
     "HttpMethod": "GET",
@@ -153,7 +153,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Feedback_System.Controllers.PostController",
+    "ContainingType": "PostController",
     "Method": "UpdatePost",
     "RelativePath": "api/Post/{id}",
     "HttpMethod": "PUT",
@@ -174,7 +174,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Feedback_System.Controllers.PostController",
+    "ContainingType": "PostController",
     "Method": "DeletePost",
     "RelativePath": "api/Post/{id}",
     "HttpMethod": "DELETE",

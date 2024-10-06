@@ -20,8 +20,8 @@ Content-Type: application/json
 Accept: application/json
 
 {
-  "comment": "Bu park çok güzel!",
-  "parkId": 2
+  "comment": "Bu park çok şedevr!",
+  "parkId": 5
 }
 
 ###
@@ -54,7 +54,7 @@ Accept: application/json
 ###
 
 # GET a Park by ID
-GET {{Feedback_System_HostAddress}}/api/park/6
+GET {{Feedback_System_HostAddress}}/api/park/1
 Accept: application/json
 
 ###
@@ -70,11 +70,11 @@ Accept: application/json
   "posts": [
     {
       "comment": "Şahdağ kayak yapmak için mükemmel!",
-      "parkId": 12
+      "parkId": 1234
     },
     {
       "comment": "Doğa yürüyüşleri harika.",
-      "parkId": 12
+      "parkId": 1234
     }
   ]
 }
@@ -82,19 +82,19 @@ Accept: application/json
 ###
 
 # PUT (Update) a Park by ID
-PUT {{Feedback_System_HostAddress}}/api/park/6
+PUT {{Feedback_System_HostAddress}}/api/park/1
 Content-Type: application/json
 Accept: application/json
 
 {
-  "id": 6,
+  "id": 1,
   "name": "Şahdağ Milli Parkı",
   "description": "Şahdağ, kayak ve doğa yürüyüşleri için mükemmel.",
   "posts": [
     {
-      "id": 6,
+      "id": 1,
       "comment": "Kayak yapmak için harika!",
-      "parkId": 6
+      "parkId": 1
     }
   ]
 }

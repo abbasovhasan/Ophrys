@@ -7,60 +7,28 @@
       "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\feedback_system.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\helpers\\roleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\helpers\\roleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\roles\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\roles\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Migrations\\20241005180247_InitialIdentityMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Feedback_System\\Migrations\\20241005180247_InitialIdentityMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\validations\\passwordvalidationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\validations\\passwordvalidationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\controllers\\parkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\controllers\\parkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Migrations\\20241006071434_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Feedback_System\\Migrations\\20241006071434_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\dtos\\entitydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\dtos\\entitydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\models\\postmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\models\\postmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\controllers\\parkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\controllers\\parkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\models\\parkentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\models\\parkentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\validations\\passwordvalidationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\validations\\passwordvalidationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\validations\\postdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,20 +39,32 @@
       "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\validations\\parkdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\models\\parkentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\models\\parkentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\models\\postmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\models\\postmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\models\\baseentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\models\\baseentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\concretes\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\concretes\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\concretes\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\concretes\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\roles\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\roles\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\helpers\\roleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\helpers\\roleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\abstractions\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -99,16 +79,40 @@
       "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\abstractions\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Migrations\\20241005155148_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Feedback_System\\Migrations\\20241005155148_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\feedback_system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\feedback_system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\migrations\\20241005161257_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\migrations\\20241005161257_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Migrations\\20241006063036_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Feedback_System\\Migrations\\20241006063036_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Migrations\\20241006061600_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Feedback_System\\Migrations\\20241006061600_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\concretes\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\concretes\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|c:\\users\\abbas\\onedrive\\documents\\codeland-hackaton\\feedback_system\\feedback_system\\concretes\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F67719-0517-49F2-B040-290FABE875BC}|Feedback_System\\Feedback_System.csproj|solutionrelative:feedback_system\\concretes\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Migrations\\20241005155148_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Feedback_System\\Migrations\\20241005155148_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,7 +122,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,80 +130,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20241005180247_InitialIdentityMigration.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Migrations\\20241005180247_InitialIdentityMigration.cs",
-              "RelativeDocumentMoniker": "Feedback_System\\Migrations\\20241005180247_InitialIdentityMigration.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Migrations\\20241005180247_InitialIdentityMigration.cs",
-              "RelativeToolTip": "Feedback_System\\Migrations\\20241005180247_InitialIdentityMigration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "20241006071434_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Migrations\\20241006071434_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Feedback_System\\Migrations\\20241006071434_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Migrations\\20241006071434_InitialCreate.cs",
+              "RelativeToolTip": "Feedback_System\\Migrations\\20241006071434_InitialCreate.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T18:02:47.579Z",
+              "WhenOpened": "2024-10-06T07:14:34.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "PostController.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Controllers\\PostController.cs",
-              "RelativeDocumentMoniker": "Feedback_System\\Controllers\\PostController.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Controllers\\PostController.cs",
-              "RelativeToolTip": "Feedback_System\\Controllers\\PostController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "PostDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Validations\\PostDtoValidator.cs",
+              "RelativeDocumentMoniker": "Feedback_System\\Validations\\PostDtoValidator.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Validations\\PostDtoValidator.cs",
+              "RelativeToolTip": "Feedback_System\\Validations\\PostDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T13:49:38.283Z",
+              "WhenOpened": "2024-10-05T16:49:13.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RoleInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Helpers\\RoleInitializer.cs",
-              "RelativeDocumentMoniker": "Feedback_System\\Helpers\\RoleInitializer.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Helpers\\RoleInitializer.cs",
-              "RelativeToolTip": "Feedback_System\\Helpers\\RoleInitializer.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAnAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "PasswordValidationConfig.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Validations\\PasswordValidationConfig.cs",
+              "RelativeDocumentMoniker": "Feedback_System\\Validations\\PasswordValidationConfig.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Validations\\PasswordValidationConfig.cs",
+              "RelativeToolTip": "Feedback_System\\Validations\\PasswordValidationConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T17:45:38.508Z",
+              "WhenOpened": "2024-10-05T17:59:19.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ParkController.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Controllers\\ParkController.cs",
+              "RelativeDocumentMoniker": "Feedback_System\\Controllers\\ParkController.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Controllers\\ParkController.cs",
+              "RelativeToolTip": "Feedback_System\\Controllers\\ParkController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAYwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:49:29.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Roles\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "Feedback_System\\Roles\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Roles\\ApplicationUser.cs",
-              "RelativeToolTip": "Feedback_System\\Roles\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "EntityDtos.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Dtos\\EntityDtos.cs",
+              "RelativeDocumentMoniker": "Feedback_System\\Dtos\\EntityDtos.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Dtos\\EntityDtos.cs",
+              "RelativeToolTip": "Feedback_System\\Dtos\\EntityDtos.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T17:24:16.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "Feedback_System\\GlobalUsings.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\GlobalUsings.cs",
-              "RelativeToolTip": "Feedback_System\\GlobalUsings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T17:25:45.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Program.cs",
-              "RelativeDocumentMoniker": "Feedback_System\\Program.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Program.cs",
-              "RelativeToolTip": "Feedback_System\\Program.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAowEwAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T12:27:33.406Z",
+              "WhenOpened": "2024-10-05T15:58:33.379Z",
               "EditorCaption": ""
             },
             {
@@ -208,159 +199,55 @@
               "Title": "Feedback_System.http",
               "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Feedback_System.http",
               "RelativeDocumentMoniker": "Feedback_System\\Feedback_System.http",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Feedback_System.http*",
-              "RelativeToolTip": "Feedback_System\\Feedback_System.http*",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAAwIEAAAAYAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Feedback_System.http",
+              "RelativeToolTip": "Feedback_System\\Feedback_System.http",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2024-10-05T13:48:29.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PasswordValidationConfig.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Validations\\PasswordValidationConfig.cs",
-              "RelativeDocumentMoniker": "Feedback_System\\Validations\\PasswordValidationConfig.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Validations\\PasswordValidationConfig.cs",
-              "RelativeToolTip": "Feedback_System\\Validations\\PasswordValidationConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T17:59:19.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ParkController.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Controllers\\ParkController.cs",
-              "RelativeDocumentMoniker": "Feedback_System\\Controllers\\ParkController.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Controllers\\ParkController.cs",
-              "RelativeToolTip": "Feedback_System\\Controllers\\ParkController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T13:49:29.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Feedback_System\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Feedback_System\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T17:35:03.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "EntityDtos.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Dtos\\EntityDtos.cs",
-              "RelativeDocumentMoniker": "Feedback_System\\Dtos\\EntityDtos.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Dtos\\EntityDtos.cs",
-              "RelativeToolTip": "Feedback_System\\Dtos\\EntityDtos.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIA9wBAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T15:58:33.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Feedback_System\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Feedback_System\\Properties\\launchSettings.json",
-              "ViewState": "AgIAABIAAAAAAAAAAAAuwCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-05T13:52:38.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PostModel.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Models\\PostModel.cs",
-              "RelativeDocumentMoniker": "Feedback_System\\Models\\PostModel.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Models\\PostModel.cs",
-              "RelativeToolTip": "Feedback_System\\Models\\PostModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T12:38:27.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Feedback_System\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "Feedback_System\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T12:33:12.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\appsettings.json",
-              "RelativeDocumentMoniker": "Feedback_System\\appsettings.json",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\appsettings.json",
-              "RelativeToolTip": "Feedback_System\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAByAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-05T12:28:24.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 8,
               "Title": "ParkDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Validations\\ParkDtoValidator.cs",
               "RelativeDocumentMoniker": "Feedback_System\\Validations\\ParkDtoValidator.cs",
               "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Validations\\ParkDtoValidator.cs",
               "RelativeToolTip": "Feedback_System\\Validations\\ParkDtoValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-05T16:48:50.772Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PostDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Validations\\PostDtoValidator.cs",
-              "RelativeDocumentMoniker": "Feedback_System\\Validations\\PostDtoValidator.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Validations\\PostDtoValidator.cs",
-              "RelativeToolTip": "Feedback_System\\Validations\\PostDtoValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "Feedback_System\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Controllers\\PostController.cs",
+              "RelativeToolTip": "Feedback_System\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAYwG0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T16:49:13.511Z",
+              "WhenOpened": "2024-10-05T13:49:38.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "20241005161257_init.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Migrations\\20241005161257_init.cs",
-              "RelativeDocumentMoniker": "Feedback_System\\Migrations\\20241005161257_init.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Migrations\\20241005161257_init.cs",
-              "RelativeToolTip": "Feedback_System\\Migrations\\20241005161257_init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "PostModel.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Models\\PostModel.cs",
+              "RelativeDocumentMoniker": "Feedback_System\\Models\\PostModel.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Models\\PostModel.cs",
+              "RelativeToolTip": "Feedback_System\\Models\\PostModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T16:12:57.271Z",
+              "WhenOpened": "2024-10-05T12:38:27.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 5,
               "Title": "ParkEntities.cs",
               "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Models\\ParkEntities.cs",
               "RelativeDocumentMoniker": "Feedback_System\\Models\\ParkEntities.cs",
@@ -373,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 10,
               "Title": "BaseEntities.cs",
               "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Models\\BaseEntities.cs",
               "RelativeDocumentMoniker": "Feedback_System\\Models\\BaseEntities.cs",
@@ -386,33 +273,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "WriteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Concretes\\WriteRepository.cs",
-              "RelativeDocumentMoniker": "Feedback_System\\Concretes\\WriteRepository.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Concretes\\WriteRepository.cs",
-              "RelativeToolTip": "Feedback_System\\Concretes\\WriteRepository.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAmwAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T13:14:50.026Z",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Feedback_System\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Feedback_System\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T13:52:38.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Concretes\\ReadRepository.cs",
-              "RelativeDocumentMoniker": "Feedback_System\\Concretes\\ReadRepository.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Concretes\\ReadRepository.cs",
-              "RelativeToolTip": "Feedback_System\\Concretes\\ReadRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAxwAAAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Program.cs",
+              "RelativeDocumentMoniker": "Feedback_System\\Program.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Program.cs",
+              "RelativeToolTip": "Feedback_System\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T13:14:42.982Z",
+              "WhenOpened": "2024-10-05T12:27:33.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 13,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Roles\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Feedback_System\\Roles\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Roles\\ApplicationUser.cs",
+              "RelativeToolTip": "Feedback_System\\Roles\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:24:16.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RoleInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Helpers\\RoleInitializer.cs",
+              "RelativeDocumentMoniker": "Feedback_System\\Helpers\\RoleInitializer.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Helpers\\RoleInitializer.cs",
+              "RelativeToolTip": "Feedback_System\\Helpers\\RoleInitializer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:45:38.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Feedback_System\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Feedback_System\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:33:12.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "IWriteRepository.cs",
               "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Abstractions\\IWriteRepository.cs",
               "RelativeDocumentMoniker": "Feedback_System\\Abstractions\\IWriteRepository.cs",
@@ -425,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 17,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Abstractions\\IRepository.cs",
               "RelativeDocumentMoniker": "Feedback_System\\Abstractions\\IRepository.cs",
@@ -438,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 18,
               "Title": "IReadRepository.cs",
               "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Abstractions\\IReadRepository.cs",
               "RelativeDocumentMoniker": "Feedback_System\\Abstractions\\IReadRepository.cs",
@@ -451,7 +377,107 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Feedback_System.csproj",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Feedback_System.csproj",
+              "RelativeDocumentMoniker": "Feedback_System\\Feedback_System.csproj",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Feedback_System.csproj",
+              "RelativeToolTip": "Feedback_System\\Feedback_System.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-05T12:32:48.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241006061600_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Migrations\\20241006061600_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Feedback_System\\Migrations\\20241006061600_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Migrations\\20241006061600_InitialCreate.cs",
+              "RelativeToolTip": "Feedback_System\\Migrations\\20241006061600_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:16:00.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241006063036_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Migrations\\20241006063036_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Feedback_System\\Migrations\\20241006063036_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Migrations\\20241006063036_InitialCreate.cs",
+              "RelativeToolTip": "Feedback_System\\Migrations\\20241006063036_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:30:36.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Feedback_System\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Feedback_System\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:35:03.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Feedback_System\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\GlobalUsings.cs",
+              "RelativeToolTip": "Feedback_System\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:25:45.887Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\appsettings.json",
+              "RelativeDocumentMoniker": "Feedback_System\\appsettings.json",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\appsettings.json",
+              "RelativeToolTip": "Feedback_System\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T12:28:24.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Concretes\\WriteRepository.cs",
+              "RelativeDocumentMoniker": "Feedback_System\\Concretes\\WriteRepository.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Concretes\\WriteRepository.cs",
+              "RelativeToolTip": "Feedback_System\\Concretes\\WriteRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:14:50.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Concretes\\ReadRepository.cs",
+              "RelativeDocumentMoniker": "Feedback_System\\Concretes\\ReadRepository.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Concretes\\ReadRepository.cs",
+              "RelativeToolTip": "Feedback_System\\Concretes\\ReadRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAxwAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:14:42.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "20241005155148_init.cs",
               "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Migrations\\20241005155148_init.cs",
               "RelativeDocumentMoniker": "Feedback_System\\Migrations\\20241005155148_init.cs",
@@ -459,19 +485,6 @@
               "RelativeToolTip": "Feedback_System\\Migrations\\20241005155148_init.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-05T15:51:48.67Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Feedback_System.csproj",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Feedback_System.csproj",
-              "RelativeDocumentMoniker": "Feedback_System\\Feedback_System.csproj",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\Codeland-Hackaton\\Feedback_System\\Feedback_System\\Feedback_System.csproj",
-              "RelativeToolTip": "Feedback_System\\Feedback_System.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-05T12:32:48.841Z",
-              "EditorCaption": ""
             }
           ]
         },
